@@ -24,8 +24,9 @@ Build lasting institutional knowledge. Every research session and architectural 
 
 We're building Chytirio in the open. Explore our repositories to see how we're revolutionizing development workflows:
 
-- **Reimagining the IDE** - **Coming Soon** pending internal build system development
-- **Rhema** - The foundation of your AI-assisted workflwo
+- **[Rhema](https://github.com/chytirio/rhema)** - The foundation of your AI-assisted workflow
+- **[Chytirio IDE](https://github/chytirio/chytirio-ide)** - **Coming Soon** pending internal build system development
+- **[Ollo](https://github.com/chytirio/ollo)** - Telemetry with AI-aware and collaboration-first mindset
 
 ---
 
