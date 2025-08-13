@@ -26,7 +26,7 @@ We're building Chytirio in the open. Explore our repositories to see how we're r
 
 - **[Rhema](https://github.com/chytirio/rhema)** - The foundation of your AI-assisted workflow
 - **[Chytirio IDE](https://github/chytirio/chytirio-ide)** - **Coming Soon** pending internal build system development
-- **[Ollo](https://github.com/chytirio/ollo)** - Telemetry with AI-aware and collaboration-first mindset
+- **[Olla](https://github.com/chytirio/olla)** - Telemetry with AI-aware and collaboration-first mindset
 
 ---
 
